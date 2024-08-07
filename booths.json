@@ -950,11 +950,11 @@
             "1관"
         ],
         "booth_name": "브이 박스",
-        "operator_name": "",
+        "operator_name": "빙크림",
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "Bingcream_",
         "week": {
             "sat": true,
             "sun": true
@@ -994,11 +994,11 @@
             "1관"
         ],
         "booth_name": "구름의기록",
-        "operator_name": "",
+        "operator_name": "우냐냥",
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "QUICHE_E",
         "week": {
             "sat": true,
             "sun": true
@@ -1302,11 +1302,11 @@
             "1관"
         ],
         "booth_name": "마돔도",
-        "operator_name": "",
-        "items_sold": "",
-        "all_tag": "",
+        "operator_name": "도마동",
+        "items_sold": "코롯토 (리제, 히나, 마시로, 타비, 시부키, 나나, 리코, 린)#해바라기 스탠드 (리제, 타비)#3기생 티셔츠#메이드 타비 쿠션",
+        "all_tag": "Vir 59, Vir 60, 스텔라이브, stellive, 방콕코롯토",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "DOMADONG_",
         "week": {
             "sat": true,
             "sun": true
@@ -2182,9 +2182,9 @@
             "3관"
         ],
         "booth_name": "heartkoi",
-        "operator_name": "유냠",
+        "operator_name": "",
         "items_sold": "부스원 [경씨카](https://twitter.com/CIKA_PIC), [유냠](https://twitter.com/YU__NYAM_PIC)",
-        "all_tag": "",
+        "all_tag": "Voc 47",
         "info_url": "",
         "twt_id": "YU__NYAM_PIC",
         "week": {
@@ -3722,7 +3722,7 @@
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "_re_ring",
         "week": {
             "sat": true,
             "sun": true
@@ -4580,7 +4580,7 @@
         ],
         "booth_name": "달코믹",
         "operator_name": "",
-        "items_sold": "공동 참여 [개혀](https://twitter.com/doghyu_)",
+        "items_sold": "부스원 [개혀](https://twitter.com/doghyu_), Feita(https://twitter.com/Feita602)",
         "all_tag": "",
         "info_url": "",
         "twt_id": "Feita602",
@@ -6029,7 +6029,7 @@
         ],
         "booth_name": "[농]밀한 제[빵]소",
         "operator_name": "",
-        "items_sold": "공동 참여 [ロさん](https://twitter.com/Rosu_art)",
+        "items_sold": "부스원 [ロさん](https://twitter.com/Rosu_art), [리스](https://twitter.com/Li_S03)",
         "all_tag": "",
         "info_url": "",
         "twt_id": "Li_S03",
@@ -6175,11 +6175,11 @@
             "3관"
         ],
         "booth_name": "블루 아틀리에",
-        "operator_name": "",
+        "operator_name": "하윤 (HAYUN)",
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "HAYUN_ART",
         "week": {
             "sat": true,
             "sun": true
@@ -6637,11 +6637,11 @@
             "3관"
         ],
         "booth_name": "범죄실현부",
-        "operator_name": "",
-        "items_sold": "",
-        "all_tag": "",
-        "info_url": "",
-        "twt_id": "",
+        "operator_name": "[돌체](https://twitter.com/Dolce_latte1), [무렌](https://twitter.com/MuReniii), [단발](https://twitter.com/shorthairgood), [뉼](https://twitter.com/nyul213), [쿠포니](https://twitter.com/kagamine1717), [설온](https://twitter.com/seol1476300)",
+        "items_sold": "수영복 아크릴 스탠드 (아키라, 카요코, 시로코, 호시노(1학년), 하레)#드레스 투명 포토카드 (카요코, 무츠키, 아루, 하루카, 호시노(1학년))#인스타 투명 포토카드 (시로코, 카즈사, 카요코&카즈사)#키링 (아키라, 와카모, 호시노(1학년))#아크릴 스탠드 (아키라)#클립펜 (하레, 마키)#1시노 수면 안대#캠핑 베리타스 아크릴 무드등#베리타스 필통#아리스 아크릴 자석#아리스 저온스티커",
+        "all_tag": "블루아카이브, Bluearchive, O08, O09, ",
+        "info_url": "https://witchform.com/deposit_form.php?idx=659437",
+        "twt_id": "MuReniii",
         "week": {
             "sat": true,
             "sun": true
