@@ -16,8 +16,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 1458.0,
-            "y": 1107.0
+            "x": 1458,
+            "y": 1107
         }
     },
     {
@@ -37,8 +37,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 1245.0,
-            "y": 1107.0
+            "x": 1245,
+            "y": 1107
         }
     },
     {
@@ -58,8 +58,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 1953.0,
-            "y": 1107.0
+            "x": 1953,
+            "y": 1107
         }
     },
     {
@@ -79,8 +79,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 966.0,
-            "y": 1278.0
+            "x": 966,
+            "y": 1278
         }
     },
     {
@@ -100,8 +100,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 1368.0,
-            "y": 1067.0
+            "x": 1368,
+            "y": 1067
         }
     },
     {
@@ -121,8 +121,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 1845.0,
-            "y": 1067.0
+            "x": 1845,
+            "y": 1067
         }
     },
     {
@@ -142,8 +142,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2235.0,
-            "y": 1278.0
+            "x": 2235,
+            "y": 1278
         }
     },
     {
@@ -163,8 +163,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 477.0,
-            "y": 289.0
+            "x": 477,
+            "y": 289
         }
     },
     {
@@ -182,8 +182,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 1050.0,
-            "y": 1052.0
+            "x": 1050,
+            "y": 1052
         }
     },
     {
@@ -201,8 +201,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2146.0,
-            "y": 1052.0
+            "x": 2146,
+            "y": 1052
         }
     },
     {
@@ -222,8 +222,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2718.0,
-            "y": 289.0
+            "x": 2718,
+            "y": 289
         }
     },
     {
@@ -244,8 +244,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 305.0,
-            "y": 324.0
+            "x": 305,
+            "y": 324
         }
     },
     {
@@ -255,19 +255,19 @@
             "1관"
         ],
         "booth_name": "에피드게임즈의 공식 입장이 아닙니다.",
-        "operator_name": "",
-        "items_sold": "",
-        "all_tag": "",
-        "info_url": "",
-        "twt_id": "",
+        "operator_name": "에피드게임즈 (지만 공식 굿즈는 없음)",
+        "items_sold": "트릭컬 2차 창작 굿즈",
+        "all_tag": "Epid Games, 에피드 게임즈, 트릭컬, 트릭컬 리바이브",
+        "info_url": "https://game.naver.com/lounge/Trickcal/board/detail/4594752",
+        "twt_id": "Trickcal_Re",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 338.0,
-            "y": 1405.0
+            "x": 338,
+            "y": 1405
         }
     },
     {
@@ -277,19 +277,19 @@
             "1관"
         ],
         "booth_name": "브이리지 (V-llage)",
-        "operator_name": "",
-        "items_sold": "",
-        "all_tag": "",
-        "info_url": "",
-        "twt_id": "",
+        "operator_name": "데브메이트 (Devmate)",
+        "items_sold": "브이리지 오프라인 콘서트 \"Voyage to Future!\"",
+        "all_tag": "버츄얼, 사샤귀여워, 재호햄, vllage, 데부메이트, ",
+        "info_url": "https://v-llage.com/posts/51850?boardViewTarget=square&boardViewType=notice",
+        "twt_id": "v_llage",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 491.0,
-            "y": 1405.0
+            "x": 491,
+            "y": 1405
         }
     },
     {
@@ -310,8 +310,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 616.0,
-            "y": 1405.0
+            "x": 616,
+            "y": 1405
         }
     },
     {
@@ -325,15 +325,15 @@
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "shoulder_pick",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 708.0,
-            "y": 1405.0
+            "x": 708,
+            "y": 1405
         }
     },
     {
@@ -343,19 +343,19 @@
             "2관"
         ],
         "booth_name": "코스이즈",
-        "operator_name": "",
+        "operator_name": "COSIS",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "코스프레, ",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "CosisOfficial",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 1300.0,
-            "y": 1405.0
+            "x": 1300,
+            "y": 1405
         }
     },
     {
@@ -367,17 +367,17 @@
         "booth_name": "FGO X RZCOS",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
-        "info_url": "",
-        "twt_id": "",
+        "all_tag": "코스프레, 젠크리에이티브, zen creative, 페그오, 페이트그랜드오더, fate grand order",
+        "info_url": "https://discord.com/channels/1191341220950179921/1191341220950179927/1271467136501415937",
+        "twt_id": "rzcos",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 1901.0,
-            "y": 1405.0
+            "x": 1901,
+            "y": 1405
         }
     },
     {
@@ -387,19 +387,19 @@
             "3관"
         ],
         "booth_name": "스타라이크",
-        "operator_name": "",
+        "operator_name": "초' 보카스타",
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "VOCASTAR_FES",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 2854.0,
-            "y": 1405.0
+            "x": 2854,
+            "y": 1405
         }
     },
     {
@@ -411,17 +411,17 @@
         "booth_name": "夢ノ結唱 BanG Dream! AI Singing Synthesizer",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "뱅드림, 부시로드, bushiroad, 아이바 아이나, CeVIO, 뱅드림신디, 신디사이저, 방도리, 반도리",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "yumenokessho",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 3007.0,
-            "y": 1405.0
+            "x": 3007,
+            "y": 1405
         }
     },
     {
@@ -432,18 +432,18 @@
         ],
         "booth_name": "모노웨이브",
         "operator_name": "BBB",
-        "items_sold": "",
+        "items_sold": "감정의 울림으로 세상을 치유하는 퍼즐 액션 어드벤처",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "studiobbb_",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 2365.0,
-            "y": 1414.0
+            "x": 2365,
+            "y": 1414
         }
     },
     {
@@ -457,15 +457,15 @@
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "milkempire_s",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 2417.0,
-            "y": 1414.0
+            "x": 2417,
+            "y": 1414
         }
     },
     {
@@ -479,15 +479,15 @@
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "maetdolgames",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 2469.0,
-            "y": 1414.0
+            "x": 2469,
+            "y": 1414
         }
     },
     {
@@ -508,8 +508,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2521.0,
-            "y": 1414.0
+            "x": 2521,
+            "y": 1414
         }
     },
     {
@@ -523,15 +523,15 @@
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "_DungeonInn",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 2573.0,
-            "y": 1414.0
+            "x": 2573,
+            "y": 1414
         }
     },
     {
@@ -545,15 +545,15 @@
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "KALPA_twt",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 2625.0,
-            "y": 1414.0
+            "x": 2625,
+            "y": 1414
         }
     },
     {
@@ -567,15 +567,15 @@
         "items_sold": "",
         "all_tag": "",
         "info_url": "",
-        "twt_id": "",
+        "twt_id": "NINEHECTARE",
         "head": false,
         "week": {
             "sat": true,
             "sun": true
         },
         "coordinates": {
-            "x": 2677.0,
-            "y": 1414.0
+            "x": 2677,
+            "y": 1414
         }
     },
     {
@@ -596,8 +596,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2729.0,
-            "y": 1414.0
+            "x": 2729,
+            "y": 1414
         }
     },
     {
@@ -618,8 +618,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 1134.0
+            "x": 920,
+            "y": 1134
         }
     },
     {
@@ -640,8 +640,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 1104.0
+            "x": 920,
+            "y": 1104
         }
     },
     {
@@ -662,8 +662,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 1104.0
+            "x": 920,
+            "y": 1104
         }
     },
     {
@@ -675,7 +675,7 @@
         "booth_name": "바다범",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Cre 04, Cre 05, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -684,8 +684,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 1044.0
+            "x": 920,
+            "y": 1044
         }
     },
     {
@@ -706,8 +706,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 984.0
+            "x": 920,
+            "y": 984
         }
     },
     {
@@ -719,7 +719,7 @@
         "booth_name": "MILL HOUSE",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Cre 08, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -728,8 +728,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 939.0
+            "x": 920,
+            "y": 939
         }
     },
     {
@@ -750,8 +750,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 894.0
+            "x": 920,
+            "y": 894
         }
     },
     {
@@ -772,8 +772,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 864.0
+            "x": 920,
+            "y": 864
         }
     },
     {
@@ -785,7 +785,7 @@
         "booth_name": "굿즈워크",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Cre 12, Cre 13,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -794,8 +794,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 740.0
+            "x": 920,
+            "y": 740
         }
     },
     {
@@ -816,8 +816,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 680.0
+            "x": 920,
+            "y": 680
         }
     },
     {
@@ -829,7 +829,7 @@
         "booth_name": "DONNA DONNA",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Cre 16, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -838,8 +838,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 635.0
+            "x": 920,
+            "y": 635
         }
     },
     {
@@ -860,8 +860,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 590.0
+            "x": 920,
+            "y": 590
         }
     },
     {
@@ -873,7 +873,7 @@
         "booth_name": "헤븐폴",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Cre 19, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -882,8 +882,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 545.0
+            "x": 920,
+            "y": 545
         }
     },
     {
@@ -904,8 +904,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 920.0,
-            "y": 500.0
+            "x": 920,
+            "y": 500
         }
     },
     {
@@ -926,8 +926,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 1134.0
+            "x": 808,
+            "y": 1134
         }
     },
     {
@@ -948,8 +948,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 1104.0
+            "x": 808,
+            "y": 1104
         }
     },
     {
@@ -970,8 +970,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 1074.0
+            "x": 808,
+            "y": 1074
         }
     },
     {
@@ -992,8 +992,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 1044.0
+            "x": 808,
+            "y": 1044
         }
     },
     {
@@ -1014,8 +1014,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 1014.0
+            "x": 808,
+            "y": 1014
         }
     },
     {
@@ -1036,8 +1036,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 1014.0
+            "x": 808,
+            "y": 1014
         }
     },
     {
@@ -1058,8 +1058,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 984.0
+            "x": 808,
+            "y": 984
         }
     },
     {
@@ -1080,8 +1080,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 984.0
+            "x": 808,
+            "y": 984
         }
     },
     {
@@ -1093,7 +1093,7 @@
         "booth_name": "로푸 없는 로푸부스",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 08, ",
         "info_url": "",
         "twt_id": "Ropu_16",
         "head": false,
@@ -1102,8 +1102,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 939.0
+            "x": 808,
+            "y": 939
         }
     },
     {
@@ -1115,7 +1115,7 @@
         "booth_name": "버츄얼냐하룽",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 10,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1124,8 +1124,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 879.0
+            "x": 808,
+            "y": 879
         }
     },
     {
@@ -1137,7 +1137,7 @@
         "booth_name": "치요노",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 12, ",
         "info_url": "",
         "twt_id": "chobi_chu",
         "head": false,
@@ -1146,8 +1146,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 755.0
+            "x": 808,
+            "y": 755
         }
     },
     {
@@ -1168,8 +1168,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 710.0
+            "x": 808,
+            "y": 710
         }
     },
     {
@@ -1181,7 +1181,7 @@
         "booth_name": "버츄얼 좋아하시나요?",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 15,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1190,8 +1190,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 665.0
+            "x": 808,
+            "y": 665
         }
     },
     {
@@ -1212,8 +1212,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 620.0
+            "x": 808,
+            "y": 620
         }
     },
     {
@@ -1225,7 +1225,7 @@
         "booth_name": "도키도키곰둥이곰방",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 18,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1234,8 +1234,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 575.0
+            "x": 808,
+            "y": 575
         }
     },
     {
@@ -1247,7 +1247,7 @@
         "booth_name": "스텔라세라",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 20,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1256,8 +1256,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 808.0,
-            "y": 515.0
+            "x": 808,
+            "y": 515
         }
     },
     {
@@ -1269,7 +1269,7 @@
         "booth_name": "김난눙이간다!",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 22, Vir 23,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1278,8 +1278,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 530.0
+            "x": 760,
+            "y": 530
         }
     },
     {
@@ -1300,8 +1300,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 590.0
+            "x": 760,
+            "y": 590
         }
     },
     {
@@ -1313,7 +1313,7 @@
         "booth_name": "에델 유스티나의 노예가 되",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 26, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1322,8 +1322,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 635.0
+            "x": 760,
+            "y": 635
         }
     },
     {
@@ -1335,7 +1335,7 @@
         "booth_name": "마녀의 버튜버공방",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 28,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1344,8 +1344,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 695.0
+            "x": 760,
+            "y": 695
         }
     },
     {
@@ -1366,8 +1366,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 740.0
+            "x": 760,
+            "y": 740
         }
     },
     {
@@ -1388,8 +1388,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 770.0
+            "x": 760,
+            "y": 770
         }
     },
     {
@@ -1410,8 +1410,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 864.0
+            "x": 760,
+            "y": 864
         }
     },
     {
@@ -1423,7 +1423,7 @@
         "booth_name": "VMZ",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 33, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1432,8 +1432,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 909.0
+            "x": 760,
+            "y": 909
         }
     },
     {
@@ -1454,8 +1454,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 954.0
+            "x": 760,
+            "y": 954
         }
     },
     {
@@ -1476,8 +1476,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 984.0
+            "x": 760,
+            "y": 984
         }
     },
     {
@@ -1489,7 +1489,7 @@
         "booth_name": "잡종들",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 37, Vir 38, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1498,8 +1498,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 1044.0
+            "x": 760,
+            "y": 1044
         }
     },
     {
@@ -1511,7 +1511,7 @@
         "booth_name": "블리즈",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 40, VLYZ, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1520,8 +1520,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 760.0,
-            "y": 1119.0
+            "x": 760,
+            "y": 1119
         }
     },
     {
@@ -1533,7 +1533,7 @@
         "booth_name": "느엥 빵엥",
         "operator_name": "[연어제티](https://twitter.com/salmonjeti), 둘핀(https://twitter.com/3ghfkddl)",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 42, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1542,8 +1542,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 1119.0
+            "x": 658,
+            "y": 1119
         }
     },
     {
@@ -1564,8 +1564,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 1074.0
+            "x": 658,
+            "y": 1074
         }
     },
     {
@@ -1577,7 +1577,7 @@
         "booth_name": "파스텔 ALIVE",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 45, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1586,8 +1586,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 1029.0
+            "x": 658,
+            "y": 1029
         }
     },
     {
@@ -1599,7 +1599,7 @@
         "booth_name": "아카이 사과",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 47, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1608,8 +1608,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 969.0
+            "x": 658,
+            "y": 969
         }
     },
     {
@@ -1630,8 +1630,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 924.0
+            "x": 658,
+            "y": 924
         }
     },
     {
@@ -1652,8 +1652,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 894.0
+            "x": 658,
+            "y": 894
         }
     },
     {
@@ -1674,8 +1674,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 864.0
+            "x": 658,
+            "y": 864
         }
     },
     {
@@ -1687,7 +1687,7 @@
         "booth_name": "기름은 답을 알고 있다",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 52, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1696,8 +1696,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 755.0
+            "x": 658,
+            "y": 755
         }
     },
     {
@@ -1709,7 +1709,7 @@
         "booth_name": "야따띠 강도단",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 54,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1718,8 +1718,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 695.0
+            "x": 658,
+            "y": 695
         }
     },
     {
@@ -1731,7 +1731,7 @@
         "booth_name": "초키랏~☆스테루라이브♥",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Vir 56, Vir 57, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -1740,8 +1740,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 620.0
+            "x": 658,
+            "y": 620
         }
     },
     {
@@ -1762,8 +1762,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 658.0,
-            "y": 530.0
+            "x": 658,
+            "y": 530
         }
     },
     {
@@ -1784,8 +1784,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 1134.0
+            "x": 2889,
+            "y": 1134
         }
     },
     {
@@ -1806,8 +1806,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 1104.0
+            "x": 2889,
+            "y": 1104
         }
     },
     {
@@ -1828,8 +1828,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 1074.0
+            "x": 2889,
+            "y": 1074
         }
     },
     {
@@ -1850,8 +1850,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 1044.0
+            "x": 2889,
+            "y": 1044
         }
     },
     {
@@ -1872,8 +1872,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 1014.0
+            "x": 2889,
+            "y": 1014
         }
     },
     {
@@ -1894,8 +1894,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 984.0
+            "x": 2889,
+            "y": 984
         }
     },
     {
@@ -1916,8 +1916,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 954.0
+            "x": 2889,
+            "y": 954
         }
     },
     {
@@ -1938,8 +1938,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 924.0
+            "x": 2889,
+            "y": 924
         }
     },
     {
@@ -1960,8 +1960,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 894.0
+            "x": 2889,
+            "y": 894
         }
     },
     {
@@ -1982,8 +1982,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 864.0
+            "x": 2889,
+            "y": 864
         }
     },
     {
@@ -2004,8 +2004,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 770.0
+            "x": 2889,
+            "y": 770
         }
     },
     {
@@ -2026,8 +2026,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 740.0
+            "x": 2889,
+            "y": 740
         }
     },
     {
@@ -2048,8 +2048,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 710.0
+            "x": 2889,
+            "y": 710
         }
     },
     {
@@ -2070,8 +2070,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 680.0
+            "x": 2889,
+            "y": 680
         }
     },
     {
@@ -2092,8 +2092,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 650.0
+            "x": 2889,
+            "y": 650
         }
     },
     {
@@ -2114,8 +2114,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 620.0
+            "x": 2889,
+            "y": 620
         }
     },
     {
@@ -2136,8 +2136,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 590.0
+            "x": 2889,
+            "y": 590
         }
     },
     {
@@ -2149,7 +2149,7 @@
         "booth_name": "ボカ学/VocaGaku",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 19, Voc 20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -2158,8 +2158,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2889.0,
-            "y": 530.0
+            "x": 2889,
+            "y": 530
         }
     },
     {
@@ -2171,7 +2171,7 @@
         "booth_name": "サツキ",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 22, Voc 23, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -2180,8 +2180,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 530.0
+            "x": 2991,
+            "y": 530
         }
     },
     {
@@ -2202,8 +2202,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 590.0
+            "x": 2991,
+            "y": 590
         }
     },
     {
@@ -2224,8 +2224,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 620.0
+            "x": 2991,
+            "y": 620
         }
     },
     {
@@ -2246,8 +2246,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 650.0
+            "x": 2991,
+            "y": 650
         }
     },
     {
@@ -2268,8 +2268,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 680.0
+            "x": 2991,
+            "y": 680
         }
     },
     {
@@ -2290,8 +2290,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 710.0
+            "x": 2991,
+            "y": 710
         }
     },
     {
@@ -2312,8 +2312,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 740.0
+            "x": 2991,
+            "y": 740
         }
     },
     {
@@ -2334,8 +2334,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 770.0
+            "x": 2991,
+            "y": 770
         }
     },
     {
@@ -2356,8 +2356,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 864.0
+            "x": 2991,
+            "y": 864
         }
     },
     {
@@ -2378,8 +2378,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 894.0
+            "x": 2991,
+            "y": 894
         }
     },
     {
@@ -2400,8 +2400,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 924.0
+            "x": 2991,
+            "y": 924
         }
     },
     {
@@ -2422,8 +2422,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 954.0
+            "x": 2991,
+            "y": 954
         }
     },
     {
@@ -2444,8 +2444,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 984.0
+            "x": 2991,
+            "y": 984
         }
     },
     {
@@ -2466,8 +2466,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 1014.0
+            "x": 2991,
+            "y": 1014
         }
     },
     {
@@ -2488,8 +2488,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 1044.0
+            "x": 2991,
+            "y": 1044
         }
     },
     {
@@ -2510,8 +2510,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 1074.0
+            "x": 2991,
+            "y": 1074
         }
     },
     {
@@ -2532,8 +2532,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 1104.0
+            "x": 2991,
+            "y": 1104
         }
     },
     {
@@ -2554,8 +2554,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2991.0,
-            "y": 1134.0
+            "x": 2991,
+            "y": 1134
         }
     },
     {
@@ -2567,7 +2567,7 @@
         "booth_name": "폿피 폿핏 폿핏포 피이잇",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 42, Voc 43, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -2576,8 +2576,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 1104.0
+            "x": 3039,
+            "y": 1104
         }
     },
     {
@@ -2598,8 +2598,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 1044.0
+            "x": 3039,
+            "y": 1044
         }
     },
     {
@@ -2620,8 +2620,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 1014.0
+            "x": 3039,
+            "y": 1014
         }
     },
     {
@@ -2633,7 +2633,7 @@
         "booth_name": "heartkoi",
         "operator_name": "[경씨카](https://twitter.com/CIKA_PIC), [유냠](https://twitter.com/YU__NYAM_PIC), [보고밥](https://twitter.com/bogopic___)",
         "items_sold": "",
-        "all_tag": "Voc 47",
+        "all_tag": "Voc 47, ",
         "info_url": "",
         "twt_id": "YU__NYAM_PIC",
         "head": false,
@@ -2642,8 +2642,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 969.0
+            "x": 3039,
+            "y": 969
         }
     },
     {
@@ -2664,8 +2664,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 924.0
+            "x": 3039,
+            "y": 924
         }
     },
     {
@@ -2686,8 +2686,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 894.0
+            "x": 3039,
+            "y": 894
         }
     },
     {
@@ -2708,8 +2708,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 864.0
+            "x": 3039,
+            "y": 864
         }
     },
     {
@@ -2721,7 +2721,7 @@
         "booth_name": "김밐덕 팩토리",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 52, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -2730,8 +2730,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 755.0
+            "x": 3039,
+            "y": 755
         }
     },
     {
@@ -2743,7 +2743,7 @@
         "booth_name": "홍망진창 잡화점",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 54, Voc 55, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -2752,8 +2752,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 680.0
+            "x": 3039,
+            "y": 680
         }
     },
     {
@@ -2774,8 +2774,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 620.0
+            "x": 3039,
+            "y": 620
         }
     },
     {
@@ -2796,8 +2796,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 590.0
+            "x": 3039,
+            "y": 590
         }
     },
     {
@@ -2818,8 +2818,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 560.0
+            "x": 3039,
+            "y": 560
         }
     },
     {
@@ -2831,7 +2831,7 @@
         "booth_name": "쏘망희망사랑",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 60, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -2840,8 +2840,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3039.0,
-            "y": 515.0
+            "x": 3039,
+            "y": 515
         }
     },
     {
@@ -2853,7 +2853,7 @@
         "booth_name": "한국 음성합성엔진 사랑회",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 62, Voc 63, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -2862,8 +2862,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 354.0
+            "x": 3152,
+            "y": 1254
         }
     },
     {
@@ -2884,8 +2884,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1194
         }
     },
     {
@@ -2906,8 +2906,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1164
         }
     },
     {
@@ -2928,8 +2928,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1134
         }
     },
     {
@@ -2950,8 +2950,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1134
         }
     },
     {
@@ -2972,8 +2972,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1104
         }
     },
     {
@@ -2994,8 +2994,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1104
         }
     },
     {
@@ -3016,8 +3016,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1074
         }
     },
     {
@@ -3038,8 +3038,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1044
         }
     },
     {
@@ -3060,8 +3060,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 1014
         }
     },
     {
@@ -3082,8 +3082,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 952
         }
     },
     {
@@ -3095,7 +3095,7 @@
         "booth_name": "즐거운주말음합엔농장",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 73, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3104,8 +3104,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 907
         }
     },
     {
@@ -3126,8 +3126,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 862
         }
     },
     {
@@ -3148,8 +3148,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 832
         }
     },
     {
@@ -3161,7 +3161,7 @@
         "booth_name": "미쿠러진 카가미네 일가",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 77, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3170,8 +3170,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 787
         }
     },
     {
@@ -3192,8 +3192,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 742
         }
     },
     {
@@ -3205,7 +3205,7 @@
         "booth_name": "해파리집",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 80, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3214,8 +3214,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": ""
+            "x": 3152,
+            "y": 697
         }
     },
     {
@@ -3236,8 +3236,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 624.0
+            "x": 3152,
+            "y": 624
         }
     },
     {
@@ -3249,7 +3249,7 @@
         "booth_name": "딸기우유드시유",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 83, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3258,8 +3258,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 579.0
+            "x": 3152,
+            "y": 579
         }
     },
     {
@@ -3280,8 +3280,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 534.0
+            "x": 3152,
+            "y": 534
         }
     },
     {
@@ -3302,8 +3302,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 504.0
+            "x": 3152,
+            "y": 504
         }
     },
     {
@@ -3315,7 +3315,7 @@
         "booth_name": "167사랑회",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 87, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3324,8 +3324,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 459.0
+            "x": 3152,
+            "y": 459
         }
     },
     {
@@ -3337,7 +3337,7 @@
         "booth_name": "하루만기다리면신곡이나와요!!!",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 89, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3346,8 +3346,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 399.0
+            "x": 3152,
+            "y": 399
         }
     },
     {
@@ -3368,8 +3368,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 3152.0,
-            "y": 354.0
+            "x": 3152,
+            "y": 354
         }
     },
     {
@@ -3381,7 +3381,7 @@
         "booth_name": "buzzG",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 92, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3390,8 +3390,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 2981,
+            "y": 342
         }
     },
     {
@@ -3403,7 +3403,7 @@
         "booth_name": "ねじ式",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "Voc 94, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3412,8 +3412,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 2921,
+            "y": 342
         }
     },
     {
@@ -3434,8 +3434,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 43,
+            "y": 1291
         }
     },
     {
@@ -3456,8 +3456,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 43,
+            "y": 1101
         }
     },
     {
@@ -3478,8 +3478,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 43,
+            "y": 914
         }
     },
     {
@@ -3500,8 +3500,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 43,
+            "y": 750
         }
     },
     {
@@ -3522,8 +3522,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 43,
+            "y": 588
         }
     },
     {
@@ -3544,8 +3544,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 43,
+            "y": 414
         }
     },
     {
@@ -3566,8 +3566,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 728,
+            "y": 342
         }
     },
     {
@@ -3588,8 +3588,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 863,
+            "y": 342
         }
     },
     {
@@ -3610,8 +3610,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 2334,
+            "y": 342
         }
     },
     {
@@ -3632,8 +3632,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": "",
-            "y": ""
+            "x": 2470,
+            "y": 342
         }
     },
     {
@@ -3644,7 +3644,7 @@
         "booth_name": "요거홀로협약",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "A02, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3653,8 +3653,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 1119.0
+            "x": 160,
+            "y": 1119
         }
     },
     {
@@ -3665,7 +3665,7 @@
         "booth_name": "요거지",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "A04, A05, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3674,8 +3674,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 1044.0
+            "x": 160,
+            "y": 1044
         }
     },
     {
@@ -3686,7 +3686,7 @@
         "booth_name": "모나티엄 회지공장",
         "operator_name": "eto",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "A07, ",
         "info_url": "",
         "twt_id": "AhnaEto",
         "head": false,
@@ -3695,8 +3695,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 969.0
+            "x": 160,
+            "y": 969
         }
     },
     {
@@ -3707,7 +3707,7 @@
         "booth_name": "에르핀의 단골맛집",
         "operator_name": "",
         "items_sold": "블루아카이브 쿠키 커터 (마리, 유우카, 노아, 페로로)#트릭컬 쿠키 커터 (영춘이, 에피콘, 마요)",
-        "all_tag": "트릭컬, 블루아카이브, blue archive",
+        "all_tag": "트릭컬, 블루아카이브, blue archive, ",
         "info_url": "https://witchform.com/payform/O2BW9Z8POL",
         "twt_id": "Ruburn_3731",
         "head": false,
@@ -3716,8 +3716,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 924.0
+            "x": 160,
+            "y": 924
         }
     },
     {
@@ -3728,7 +3728,7 @@
         "booth_name": "어머니 찾던 그 게임",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "A10, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3737,8 +3737,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 879.0
+            "x": 160,
+            "y": 879
         }
     },
     {
@@ -3758,8 +3758,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 770.0
+            "x": 160,
+            "y": 770
         }
     },
     {
@@ -3779,8 +3779,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 740.0
+            "x": 160,
+            "y": 740
         }
     },
     {
@@ -3791,7 +3791,7 @@
         "booth_name": "어이 거기 내 선생이 되라",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "A14, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3800,8 +3800,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 695.0
+            "x": 160,
+            "y": 695
         }
     },
     {
@@ -3812,7 +3812,7 @@
         "booth_name": "워프",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "A16, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3821,8 +3821,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 635.0
+            "x": 160,
+            "y": 635
         }
     },
     {
@@ -3842,8 +3842,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 590.0
+            "x": 160,
+            "y": 590
         }
     },
     {
@@ -3854,7 +3854,7 @@
         "booth_name": "괴즈나애호가",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "A19, A20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -3863,8 +3863,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 160.0,
-            "y": 530.0
+            "x": 160,
+            "y": 530
         }
     },
     {
@@ -3884,8 +3884,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 1134.0
+            "x": 208,
+            "y": 1134
         }
     },
     {
@@ -3905,8 +3905,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 1104.0
+            "x": 208,
+            "y": 1104
         }
     },
     {
@@ -3917,7 +3917,7 @@
         "booth_name": "도깨비상점",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "B04, ",
         "info_url": "",
         "twt_id": "kkebistore",
         "head": false,
@@ -3926,8 +3926,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 1059.0
+            "x": 208,
+            "y": 1059
         }
     },
     {
@@ -3947,8 +3947,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 1014.0
+            "x": 208,
+            "y": 1014
         }
     },
     {
@@ -3968,8 +3968,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 984.0
+            "x": 208,
+            "y": 984
         }
     },
     {
@@ -3989,8 +3989,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 954.0
+            "x": 208,
+            "y": 954
         }
     },
     {
@@ -4001,7 +4001,7 @@
         "booth_name": "Rabbit Candy",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "B09, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4010,8 +4010,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 909.0
+            "x": 208,
+            "y": 909
         }
     },
     {
@@ -4031,8 +4031,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 864.0
+            "x": 208,
+            "y": 864
         }
     },
     {
@@ -4043,7 +4043,7 @@
         "booth_name": "Platina Comet",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "B12, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4052,8 +4052,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 755.0
+            "x": 208,
+            "y": 755
         }
     },
     {
@@ -4064,7 +4064,7 @@
         "booth_name": "금쪽같은 내장르",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "B14, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4073,8 +4073,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 695.0
+            "x": 208,
+            "y": 695
         }
     },
     {
@@ -4085,7 +4085,7 @@
         "booth_name": "딮 치즈 나쵸세트",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "B16, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4094,8 +4094,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 635.0
+            "x": 208,
+            "y": 635
         }
     },
     {
@@ -4115,8 +4115,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 590.0
+            "x": 208,
+            "y": 590
         }
     },
     {
@@ -4127,7 +4127,7 @@
         "booth_name": "하얀풀",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "B19, B20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4136,8 +4136,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 208.0,
-            "y": 530.0
+            "x": 208,
+            "y": 530
         }
     },
     {
@@ -4148,7 +4148,7 @@
         "booth_name": "몰루카츠",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "C02, C03, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4157,8 +4157,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 1104.0
+            "x": 310,
+            "y": 1104
         }
     },
     {
@@ -4178,8 +4178,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 1044.0
+            "x": 310,
+            "y": 1044
         }
     },
     {
@@ -4190,7 +4190,7 @@
         "booth_name": "H.O.L",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "C06, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4199,8 +4199,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 999.0
+            "x": 310,
+            "y": 999
         }
     },
     {
@@ -4220,8 +4220,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 954.0
+            "x": 310,
+            "y": 954
         }
     },
     {
@@ -4241,8 +4241,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 879.0
+            "x": 310,
+            "y": 879
         }
     },
     {
@@ -4262,8 +4262,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 864.0
+            "x": 310,
+            "y": 864
         }
     },
     {
@@ -4274,7 +4274,7 @@
         "booth_name": "Crossroad",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "C12, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4283,8 +4283,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 755.0
+            "x": 310,
+            "y": 755
         }
     },
     {
@@ -4304,8 +4304,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 710.0
+            "x": 310,
+            "y": 710
         }
     },
     {
@@ -4325,8 +4325,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 680.0
+            "x": 310,
+            "y": 680
         }
     },
     {
@@ -4346,8 +4346,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 650.0
+            "x": 310,
+            "y": 650
         }
     },
     {
@@ -4358,7 +4358,7 @@
         "booth_name": "선생님 여기에요",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "C17, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4367,8 +4367,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 605.0
+            "x": 310,
+            "y": 605
         }
     },
     {
@@ -4379,7 +4379,7 @@
         "booth_name": "팩토리",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "C19, C20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4388,8 +4388,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 310.0,
-            "y": 530.0
+            "x": 310,
+            "y": 530
         }
     },
     {
@@ -4400,7 +4400,7 @@
         "booth_name": "JUNAzip",
         "operator_name": "JUNA",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D02, D03, ",
         "info_url": "",
         "twt_id": "JUNAnim",
         "head": false,
@@ -4409,8 +4409,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 1104.0
+            "x": 358,
+            "y": 1104
         }
     },
     {
@@ -4421,7 +4421,7 @@
         "booth_name": "에가쿠",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D05, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4430,8 +4430,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 1029.0
+            "x": 358,
+            "y": 1029
         }
     },
     {
@@ -4442,7 +4442,7 @@
         "booth_name": "끝나고 회식해요",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D07, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4451,8 +4451,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 969.0
+            "x": 358,
+            "y": 969
         }
     },
     {
@@ -4472,8 +4472,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 924.0
+            "x": 358,
+            "y": 924
         }
     },
     {
@@ -4484,7 +4484,7 @@
         "booth_name": "도토리곳간",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D10,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4493,8 +4493,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 879.0
+            "x": 358,
+            "y": 879
         }
     },
     {
@@ -4505,7 +4505,7 @@
         "booth_name": "비하인드스토리와 멈머냥",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D12, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4514,8 +4514,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 755.0
+            "x": 358,
+            "y": 755
         }
     },
     {
@@ -4535,8 +4535,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 695.0
+            "x": 358,
+            "y": 695
         }
     },
     {
@@ -4547,7 +4547,7 @@
         "booth_name": "농빵협동조합",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D16,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4556,8 +4556,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 635.0
+            "x": 358,
+            "y": 635
         }
     },
     {
@@ -4568,7 +4568,7 @@
         "booth_name": "팀 벨리아",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D18,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4577,8 +4577,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 575.0
+            "x": 358,
+            "y": 575
         }
     },
     {
@@ -4589,7 +4589,7 @@
         "booth_name": "Team SINOSABI",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "D20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4598,8 +4598,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 358.0,
-            "y": 515.0
+            "x": 358,
+            "y": 515
         }
     },
     {
@@ -4610,7 +4610,7 @@
         "booth_name": "리즈리사",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "E02,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4619,8 +4619,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 1104.0
+            "x": 460,
+            "y": 1104
         }
     },
     {
@@ -4631,7 +4631,7 @@
         "booth_name": "닷샤공방",
         "operator_name": "닷샤",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "E05, ",
         "info_url": "",
         "twt_id": "S2_Datsha",
         "head": false,
@@ -4640,8 +4640,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 1029.0
+            "x": 460,
+            "y": 1029
         }
     },
     {
@@ -4661,8 +4661,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 984.0
+            "x": 460,
+            "y": 984
         }
     },
     {
@@ -4673,7 +4673,7 @@
         "booth_name": "도마뱀의 보물함",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "E08, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4682,8 +4682,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 939.0
+            "x": 460,
+            "y": 939
         }
     },
     {
@@ -4694,7 +4694,7 @@
         "booth_name": "푸르딩딩 아카이브",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "E10, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4703,8 +4703,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 879.0
+            "x": 460,
+            "y": 879
         }
     },
     {
@@ -4715,7 +4715,7 @@
         "booth_name": "DJ+M@STER",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "E12, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4724,8 +4724,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 755.0
+            "x": 460,
+            "y": 755
         }
     },
     {
@@ -4745,8 +4745,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 695.0
+            "x": 460,
+            "y": 695
         }
     },
     {
@@ -4757,7 +4757,7 @@
         "booth_name": "프론트 포커스",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "E16, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4766,8 +4766,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 635.0
+            "x": 460,
+            "y": 635
         }
     },
     {
@@ -4787,8 +4787,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 590.0
+            "x": 460,
+            "y": 590
         }
     },
     {
@@ -4799,7 +4799,7 @@
         "booth_name": "김재원 입니다",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "E19, E20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4808,8 +4808,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 460.0,
-            "y": 530.0
+            "x": 460,
+            "y": 530
         }
     },
     {
@@ -4820,7 +4820,7 @@
         "booth_name": "알고리즘",
         "operator_name": "알고리즘(AGRT)",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "F02, ",
         "info_url": "",
         "twt_id": "illustratorAGRT",
         "head": false,
@@ -4829,8 +4829,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 1104.0
+            "x": 508,
+            "y": 1104
         }
     },
     {
@@ -4841,7 +4841,7 @@
         "booth_name": "왕생당의보부상",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "F05, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4850,8 +4850,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 1029.0
+            "x": 508,
+            "y": 1029
         }
     },
     {
@@ -4862,7 +4862,7 @@
         "booth_name": "MIX CRAFT",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "F07, ",
         "info_url": "",
         "twt_id": "mymiho_",
         "head": false,
@@ -4871,8 +4871,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 969.0
+            "x": 508,
+            "y": 969
         }
     },
     {
@@ -4892,8 +4892,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 924.0
+            "x": 508,
+            "y": 924
         }
     },
     {
@@ -4904,7 +4904,7 @@
         "booth_name": "프라나 너무너무너무 좋아",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "F10, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4913,8 +4913,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 879.0
+            "x": 508,
+            "y": 879
         }
     },
     {
@@ -4934,8 +4934,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 770.0
+            "x": 508,
+            "y": 770
         }
     },
     {
@@ -4946,7 +4946,7 @@
         "booth_name": "버츄얼팩토리",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "F13, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4955,8 +4955,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 710.0
+            "x": 508,
+            "y": 710
         }
     },
     {
@@ -4967,7 +4967,7 @@
         "booth_name": "어디선가 봤던 그림이다!",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "F16, F17, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -4976,8 +4976,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 620.0
+            "x": 508,
+            "y": 620
         }
     },
     {
@@ -4988,7 +4988,7 @@
         "booth_name": "stellantis",
         "operator_name": "동인 서클 「스텔란티스」",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "F19, F20, ",
         "info_url": "",
         "twt_id": "whit_blanc",
         "head": false,
@@ -4997,8 +4997,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 508.0,
-            "y": 530.0
+            "x": 508,
+            "y": 530
         }
     },
     {
@@ -5018,8 +5018,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 1134.0
+            "x": 610,
+            "y": 1134
         }
     },
     {
@@ -5030,7 +5030,7 @@
         "booth_name": "달코믹",
         "operator_name": "[개혀](https://twitter.com/doghyu_), [Feita](https://twitter.com/Feita602)",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "G03, G04, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5039,8 +5039,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 1074.0
+            "x": 610,
+            "y": 1074
         }
     },
     {
@@ -5051,7 +5051,7 @@
         "booth_name": "얼탱이없네",
         "operator_name": "[잉게](https://twitter.com/zxvxas120), [이오](https://twitter.com/Iorite_ART)",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "G06, G07, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5060,8 +5060,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 984.0
+            "x": 610,
+            "y": 984
         }
     },
     {
@@ -5081,8 +5081,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 924.0
+            "x": 610,
+            "y": 924
         }
     },
     {
@@ -5093,7 +5093,7 @@
         "booth_name": "시나브로 연구소",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "G10, ",
         "info_url": "",
         "twt_id": "DBSG_66",
         "head": false,
@@ -5102,8 +5102,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 879.0
+            "x": 610,
+            "y": 879
         }
     },
     {
@@ -5114,7 +5114,7 @@
         "booth_name": "악기상점",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "G12,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5123,8 +5123,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 755.0
+            "x": 610,
+            "y": 755
         }
     },
     {
@@ -5144,8 +5144,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 710.0
+            "x": 610,
+            "y": 710
         }
     },
     {
@@ -5156,7 +5156,7 @@
         "booth_name": "트리니티 해외항공",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "G15, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5165,8 +5165,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 665.0
+            "x": 610,
+            "y": 665
         }
     },
     {
@@ -5186,8 +5186,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 620.0
+            "x": 610,
+            "y": 620
         }
     },
     {
@@ -5207,8 +5207,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 590.0
+            "x": 610,
+            "y": 590
         }
     },
     {
@@ -5219,7 +5219,7 @@
         "booth_name": "이세계 반디엄마",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "G19, G20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5228,8 +5228,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 610.0,
-            "y": 530.0
+            "x": 610,
+            "y": 530
         }
     },
     {
@@ -5249,8 +5249,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 1134.0
+            "x": 2279,
+            "y": 1134
         }
     },
     {
@@ -5270,8 +5270,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 1104.0
+            "x": 2279,
+            "y": 1104
         }
     },
     {
@@ -5291,8 +5291,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 1074.0
+            "x": 2279,
+            "y": 1074
         }
     },
     {
@@ -5312,8 +5312,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 1044.0
+            "x": 2279,
+            "y": 1044
         }
     },
     {
@@ -5333,8 +5333,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 1044.0
+            "x": 2279,
+            "y": 1044
         }
     },
     {
@@ -5354,8 +5354,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 1014.0
+            "x": 2279,
+            "y": 1014
         }
     },
     {
@@ -5375,8 +5375,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 1014.0
+            "x": 2279,
+            "y": 1014
         }
     },
     {
@@ -5387,7 +5387,7 @@
         "booth_name": "네루 아카이브",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "H07, ",
         "info_url": "",
         "twt_id": "HANA_jijon",
         "head": false,
@@ -5396,8 +5396,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 969.0
+            "x": 2279,
+            "y": 969
         }
     },
     {
@@ -5408,7 +5408,7 @@
         "booth_name": "키보토스 자경단",
         "operator_name": "유케",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "H09,",
         "info_url": "",
         "twt_id": "yuke061112",
         "head": false,
@@ -5417,8 +5417,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 909.0
+            "x": 2279,
+            "y": 909
         }
     },
     {
@@ -5438,8 +5438,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 864.0
+            "x": 2279,
+            "y": 864
         }
     },
     {
@@ -5459,8 +5459,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 864.0
+            "x": 2279,
+            "y": 864
         }
     },
     {
@@ -5480,8 +5480,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 770.0
+            "x": 2279,
+            "y": 770
         }
     },
     {
@@ -5501,8 +5501,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 770.0
+            "x": 2279,
+            "y": 770
         }
     },
     {
@@ -5522,8 +5522,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 740.0
+            "x": 2279,
+            "y": 740
         }
     },
     {
@@ -5543,8 +5543,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 740.0
+            "x": 2279,
+            "y": 740
         }
     },
     {
@@ -5564,8 +5564,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 710.0
+            "x": 2279,
+            "y": 710
         }
     },
     {
@@ -5585,8 +5585,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 710.0
+            "x": 2279,
+            "y": 710
         }
     },
     {
@@ -5606,8 +5606,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 650.0
+            "x": 2279,
+            "y": 650
         }
     },
     {
@@ -5627,8 +5627,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 590.0
+            "x": 2279,
+            "y": 590
         }
     },
     {
@@ -5648,8 +5648,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 560.0
+            "x": 2279,
+            "y": 560
         }
     },
     {
@@ -5660,7 +5660,7 @@
         "booth_name": "Kross.ProJecT",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "H20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5669,8 +5669,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2279.0,
-            "y": 515.0
+            "x": 2279,
+            "y": 515
         }
     },
     {
@@ -5681,7 +5681,7 @@
         "booth_name": "AliceFlag",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "I02, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5690,8 +5690,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 1119.0
+            "x": 2391,
+            "y": 1119
         }
     },
     {
@@ -5711,8 +5711,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 1074.0
+            "x": 2391,
+            "y": 1074
         }
     },
     {
@@ -5723,7 +5723,7 @@
         "booth_name": "정실만 취급합니다",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "I05, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5732,8 +5732,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 1029.0
+            "x": 2391,
+            "y": 1029
         }
     },
     {
@@ -5753,8 +5753,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 984.0
+            "x": 2391,
+            "y": 984
         }
     },
     {
@@ -5774,8 +5774,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 954.0
+            "x": 2391,
+            "y": 954
         }
     },
     {
@@ -5786,7 +5786,7 @@
         "booth_name": "유즈의절대망상구역",
         "operator_name": "유즈",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "I09, I10, ",
         "info_url": "",
         "twt_id": "uzru0428",
         "head": false,
@@ -5795,8 +5795,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 894.0
+            "x": 2391,
+            "y": 894
         }
     },
     {
@@ -5807,7 +5807,7 @@
         "booth_name": "싯딤생활편한가",
         "operator_name": "[Nueong](https://twitter.com/Nu_eong), [콤표](https://twitter.com/AM_32123), [クズノハ](https://twitter.com/Hanozuku), [ペプシ](https://twitter.com/PEPSI2330), [망품](https://twitter.com/taro109210), [hgih](https://twitter.com/star25671), [라인](https://twitter.com/REEEEI_N)",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "I12, I13, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5816,8 +5816,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 740.0
+            "x": 2391,
+            "y": 740
         }
     },
     {
@@ -5828,7 +5828,7 @@
         "booth_name": "인스턴트",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "I15,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5837,8 +5837,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 665.0
+            "x": 2391,
+            "y": 665
         }
     },
     {
@@ -5849,7 +5849,7 @@
         "booth_name": "Team SAP & 만두공방",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "I17, I18, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5858,8 +5858,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 590.0
+            "x": 2391,
+            "y": 590
         }
     },
     {
@@ -5870,7 +5870,7 @@
         "booth_name": "Mitsukiyo Roastery",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "I20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5879,8 +5879,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 530.0
+            "x": 2391,
+            "y": 530
         }
     },
     {
@@ -5900,8 +5900,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2391.0,
-            "y": 500.0
+            "x": 2391,
+            "y": 500
         }
     },
     {
@@ -5912,7 +5912,7 @@
         "booth_name": "깽이는언제나룰루랄라",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "J02, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -5921,8 +5921,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 1119.0
+            "x": 2439,
+            "y": 1119
         }
     },
     {
@@ -5942,8 +5942,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 1074.0
+            "x": 2439,
+            "y": 1074
         }
     },
     {
@@ -5963,8 +5963,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 1044.0
+            "x": 2439,
+            "y": 1044
         }
     },
     {
@@ -5984,8 +5984,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 1014.0
+            "x": 2439,
+            "y": 1014
         }
     },
     {
@@ -5996,7 +5996,7 @@
         "booth_name": "데이드림 페어리즈",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "J07, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6005,8 +6005,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 969.0
+            "x": 2439,
+            "y": 969
         }
     },
     {
@@ -6026,8 +6026,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 924.0
+            "x": 2439,
+            "y": 924
         }
     },
     {
@@ -6038,7 +6038,7 @@
         "booth_name": "삼겹숙주볶음",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "J10, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6047,8 +6047,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 879.0
+            "x": 2439,
+            "y": 879
         }
     },
     {
@@ -6059,7 +6059,7 @@
         "booth_name": "빵점! 왁왁우!",
         "operator_name": "XANAX025",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "J12, ",
         "info_url": "",
         "twt_id": "XANAX025",
         "head": false,
@@ -6068,8 +6068,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 755.0
+            "x": 2439,
+            "y": 755
         }
     },
     {
@@ -6080,7 +6080,7 @@
         "booth_name": "미소녀 동물원에 떨궈진 짐승들",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "J14, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6089,8 +6089,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 695.0
+            "x": 2439,
+            "y": 695
         }
     },
     {
@@ -6101,7 +6101,7 @@
         "booth_name": "환상향백합단",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "J16, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6110,8 +6110,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 635.0
+            "x": 2439,
+            "y": 635
         }
     },
     {
@@ -6131,8 +6131,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 590.0
+            "x": 2439,
+            "y": 590
         }
     },
     {
@@ -6143,7 +6143,7 @@
         "booth_name": "크림파스타",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "J19, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6152,8 +6152,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 545.0
+            "x": 2439,
+            "y": 545
         }
     },
     {
@@ -6173,8 +6173,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2439.0,
-            "y": 500.0
+            "x": 2439,
+            "y": 500
         }
     },
     {
@@ -6194,8 +6194,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 1134.0
+            "x": 2541,
+            "y": 1134
         }
     },
     {
@@ -6206,7 +6206,7 @@
         "booth_name": "말랑뽀작우유식빵",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "K03, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6215,8 +6215,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 1089.0
+            "x": 2541,
+            "y": 1089
         }
     },
     {
@@ -6227,7 +6227,7 @@
         "booth_name": "감뀰포장학과 / 방부방디",
         "operator_name": "",
         "items_sold": "부직포 가방 (블루 아카이브)#미니 테라리움 (원신 나히다)#아크릴 안경거치대 (블루 아카이브)#아크릴 스탠드 (블루 아카이브, 원신)#원신 OL 일러스트북#아크릴 블럭 (블루아카이브 미카, 원신 닐루)#아크릴 키링 (블루 아카이브, 원신)#투명 포토카드 (블루 아카이브)#안경닦이 (블루 아카이브, 원신)#족자봉 (블루아카이브 미카, 원신)#카드스티커 세트 (교통카드 스티커 + 일반IC칩/미니IC칩 스티커)#블루 아카이브 선생 부채#아크릴 코롯토 (블루 아카이브 나기사, 세이아)#장패드 (원신 푸리나, 나히다)",
-        "all_tag": "원신, 블루아카이브, blue archive, genshin impact, k05, k06",
+        "all_tag": "원신, 블루아카이브, blue archive, genshin impact, K05, K06",
         "info_url": "https://twitter.com/leegh19769/status/1820716214068605274/photo/1",
         "twt_id": "",
         "head": false,
@@ -6236,8 +6236,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 1014.0
+            "x": 2541,
+            "y": 1014
         }
     },
     {
@@ -6257,8 +6257,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 954.0
+            "x": 2541,
+            "y": 954
         }
     },
     {
@@ -6278,8 +6278,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 924.0
+            "x": 2541,
+            "y": 924
         }
     },
     {
@@ -6290,7 +6290,7 @@
         "booth_name": "치야호야",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "K10, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6299,8 +6299,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 879.0
+            "x": 2541,
+            "y": 879
         }
     },
     {
@@ -6311,7 +6311,7 @@
         "booth_name": "ESPITZ MUSIC",
         "operator_name": "Espitz",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "K12, K13, ",
         "info_url": "",
         "twt_id": "EspitzOfficial",
         "head": false,
@@ -6320,8 +6320,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 740.0
+            "x": 2541,
+            "y": 740
         }
     },
     {
@@ -6341,8 +6341,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 680.0
+            "x": 2541,
+            "y": 680
         }
     },
     {
@@ -6362,8 +6362,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 650.0
+            "x": 2541,
+            "y": 650
         }
     },
     {
@@ -6374,7 +6374,7 @@
         "booth_name": "바다에서 모두와 함께부",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "K17, K18, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6383,8 +6383,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 590.0
+            "x": 2541,
+            "y": 590
         }
     },
     {
@@ -6395,7 +6395,7 @@
         "booth_name": "분홍젤리발바닥",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "K20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6404,8 +6404,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2541.0,
-            "y": 515.0
+            "x": 2541,
+            "y": 515
         }
     },
     {
@@ -6416,7 +6416,7 @@
         "booth_name": "시로쿠로 돗치스키?",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "L02, L03, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6425,8 +6425,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 1104.0
+            "x": 2589,
+            "y": 1104
         }
     },
     {
@@ -6446,8 +6446,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 1044.0
+            "x": 2589,
+            "y": 1044
         }
     },
     {
@@ -6458,7 +6458,7 @@
         "booth_name": "단팥없는 단팥빵",
         "operator_name": "MONINI",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "L06, ",
         "info_url": "",
         "twt_id": "momoninni",
         "head": false,
@@ -6467,8 +6467,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 999.0
+            "x": 2589,
+            "y": 999
         }
     },
     {
@@ -6479,7 +6479,7 @@
         "booth_name": "[농]밀한 제[빵]소",
         "operator_name": "",
         "items_sold": "부스원 [ロさん](https://twitter.com/Rosu_art), [리스](https://twitter.com/Li_S03)",
-        "all_tag": "",
+        "all_tag": "L08, L09, 농밀한 제빵소, ",
         "info_url": "",
         "twt_id": "Li_S03",
         "head": false,
@@ -6488,8 +6488,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 924.0
+            "x": 2589,
+            "y": 924
         }
     },
     {
@@ -6509,8 +6509,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 864.0
+            "x": 2589,
+            "y": 864
         }
     },
     {
@@ -6521,7 +6521,7 @@
         "booth_name": "서클)여?름",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "서클여름, L12, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6530,8 +6530,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 755.0
+            "x": 2589,
+            "y": 755
         }
     },
     {
@@ -6542,7 +6542,7 @@
         "booth_name": "평일오전오락위원회",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "L14, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6551,8 +6551,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 695.0
+            "x": 2589,
+            "y": 695
         }
     },
     {
@@ -6563,7 +6563,7 @@
         "booth_name": "구원자발전소",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "L16, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6572,8 +6572,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 635.0
+            "x": 2589,
+            "y": 635
         }
     },
     {
@@ -6593,8 +6593,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 590.0
+            "x": 2589,
+            "y": 590
         }
     },
     {
@@ -6605,7 +6605,7 @@
         "booth_name": "말랑해요 시즌3.5",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "L19, L20, ",
         "info_url": "",
         "twt_id": "hagoonha",
         "head": false,
@@ -6614,8 +6614,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2589.0,
-            "y": 530.0
+            "x": 2589,
+            "y": 530
         }
     },
     {
@@ -6626,7 +6626,7 @@
         "booth_name": "블루 아틀리에",
         "operator_name": "하윤 (HAYUN)",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "M02, ",
         "info_url": "",
         "twt_id": "HAYUN_ART",
         "head": false,
@@ -6635,8 +6635,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 1104.0
+            "x": 2691,
+            "y": 1104
         }
     },
     {
@@ -6647,7 +6647,7 @@
         "booth_name": "병머청(가제)",
         "operator_name": "莲 / LEN",
         "items_sold": "아크릴 스탠드 카요코#장패드 카요코",
-        "all_tag": "M05, M06, M07, 블루아카이브, blue archive, ",
+        "all_tag": "M05, 블루아카이브, blue archive, ",
         "info_url": "https://twitter.com/lenslans00000/status/1819781901705748568/photo/1",
         "twt_id": "lenslans00000",
         "head": false,
@@ -6656,8 +6656,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 1029.0
+            "x": 2691,
+            "y": 1029
         }
     },
     {
@@ -6668,7 +6668,7 @@
         "booth_name": "병머청(바닷가재)",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "M07, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6677,8 +6677,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 969.0
+            "x": 2691,
+            "y": 969
         }
     },
     {
@@ -6689,7 +6689,7 @@
         "booth_name": "청계천횟집",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "M09, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6698,8 +6698,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 909.0
+            "x": 2691,
+            "y": 909
         }
     },
     {
@@ -6719,8 +6719,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 864.0
+            "x": 2691,
+            "y": 864
         }
     },
     {
@@ -6740,8 +6740,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 725.0
+            "x": 2691,
+            "y": 725
         }
     },
     {
@@ -6752,7 +6752,7 @@
         "booth_name": "김치피자탕수육",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "M16, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6761,8 +6761,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 635.0
+            "x": 2691,
+            "y": 635
         }
     },
     {
@@ -6782,8 +6782,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 590.0
+            "x": 2691,
+            "y": 590
         }
     },
     {
@@ -6794,7 +6794,7 @@
         "booth_name": "어이,그씹덕하나줘!",
         "operator_name": "Ann",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "M19, M20, ",
         "info_url": "",
         "twt_id": "Aann_til",
         "head": false,
@@ -6803,8 +6803,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2691.0,
-            "y": 530.0
+            "x": 2691,
+            "y": 530
         }
     },
     {
@@ -6815,7 +6815,7 @@
         "booth_name": "피규리움",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "N02, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6824,8 +6824,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 1104.0
+            "x": 2739,
+            "y": 1104
         }
     },
     {
@@ -6836,7 +6836,7 @@
         "booth_name": "이것봐 선새니 야광시로코야",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "N05,",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6845,8 +6845,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 1029.0
+            "x": 2739,
+            "y": 1029
         }
     },
     {
@@ -6857,7 +6857,7 @@
         "booth_name": "명일방주화이팅",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "N07, N08, ",
         "info_url": "",
         "twt_id": "whitydragon_",
         "head": false,
@@ -6866,8 +6866,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 954.0
+            "x": 2739,
+            "y": 954
         }
     },
     {
@@ -6887,8 +6887,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 894.0
+            "x": 2739,
+            "y": 894
         }
     },
     {
@@ -6908,8 +6908,8 @@
             "sun": false
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 864.0
+            "x": 2739,
+            "y": 864
         }
     },
     {
@@ -6920,7 +6920,7 @@
         "booth_name": "라베의 수상쩍은 책방",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "N12, N13, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -6929,8 +6929,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 725.0
+            "x": 2739,
+            "y": 725
         }
     },
     {
@@ -6950,8 +6950,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 650.0
+            "x": 2739,
+            "y": 650
         }
     },
     {
@@ -6962,7 +6962,7 @@
         "booth_name": "일망동",
         "operator_name": "Team. 일망동",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "N17, N18, ",
         "info_url": "",
         "twt_id": "bob_tong_95",
         "head": false,
@@ -6971,8 +6971,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 590.0
+            "x": 2739,
+            "y": 590
         }
     },
     {
@@ -6983,7 +6983,7 @@
         "booth_name": "일단망상하는동아리",
         "operator_name": "Team. 일망동",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "N20, ",
         "info_url": "",
         "twt_id": "UZI_villain",
         "head": false,
@@ -6992,8 +6992,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2739.0,
-            "y": 515.0
+            "x": 2739,
+            "y": 515
         }
     },
     {
@@ -7013,8 +7013,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 1134.0
+            "x": 2841,
+            "y": 1134
         }
     },
     {
@@ -7034,8 +7034,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 1104.0
+            "x": 2841,
+            "y": 1104
         }
     },
     {
@@ -7046,7 +7046,7 @@
         "booth_name": "돈까스팔루그",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "O04, O05, ",
         "info_url": "",
         "twt_id": "buwonte",
         "head": false,
@@ -7055,8 +7055,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 1044.0
+            "x": 2841,
+            "y": 1044
         }
     },
     {
@@ -7076,8 +7076,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 984.0
+            "x": 2841,
+            "y": 984
         }
     },
     {
@@ -7097,8 +7097,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 924.0
+            "x": 2841,
+            "y": 924
         }
     },
     {
@@ -7118,8 +7118,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 864.0
+            "x": 2841,
+            "y": 864
         }
     },
     {
@@ -7139,8 +7139,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 770.0
+            "x": 2841,
+            "y": 770
         }
     },
     {
@@ -7151,7 +7151,7 @@
         "booth_name": "레몬범벅",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "O13, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -7160,8 +7160,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 725.0
+            "x": 2841,
+            "y": 725
         }
     },
     {
@@ -7172,7 +7172,7 @@
         "booth_name": "clover",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "O15, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -7181,8 +7181,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 665.0
+            "x": 2841,
+            "y": 665
         }
     },
     {
@@ -7193,7 +7193,7 @@
         "booth_name": "센세이게빚의힘입니다",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "O17, O18, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -7202,8 +7202,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 590.0
+            "x": 2841,
+            "y": 590
         }
     },
     {
@@ -7214,7 +7214,7 @@
         "booth_name": "플라",
         "operator_name": "",
         "items_sold": "",
-        "all_tag": "",
+        "all_tag": "O20, ",
         "info_url": "",
         "twt_id": "",
         "head": false,
@@ -7223,8 +7223,8 @@
             "sun": true
         },
         "coordinates": {
-            "x": 2841.0,
-            "y": 515.0
+            "x": 2841,
+            "y": 515
         }
     }
 ]
